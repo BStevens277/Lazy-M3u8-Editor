@@ -1,6 +1,6 @@
 
 /*
-MUSIC APP TO MANAGE PLAYLISTS WITH A GUI
+MUSIC APP TO MANAGE PLAYLISTS WITH A CLI
 
 NOTE - Once program name is decided, add logic to folder population to exclude the application
 
